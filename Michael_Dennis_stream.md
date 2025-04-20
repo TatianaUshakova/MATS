@@ -4,7 +4,6 @@ I am very interested in reinforcement learning and in learning in general concep
 
 ## What do you want to work on? Please give a 3-5 paragraph pitch for your research idea that fits this stream.
 
-While I am not very familiar with that currently happening in the area, here are some of my thoughts from reading the CIRL article. 
 
 .. to be added, sorry, it took more time than I thought it would to carefully formulate the research proposal, hope to finish working on it by end of Sunday..
 
